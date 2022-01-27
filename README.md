@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Joshi 🖥️ </h1>
+<h1 align="center">Hi 👋, I'm Vishal Joshi 😉 </h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knockcat&label=Profile%20views&color=0e75b6&style=flat" alt="knockcat" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishalj10483982" target="blank"><img src="https://img.shields.io/twitter/follow/vishalj10483982?logo=twitter&style=for-the-badge" alt="vishalj10483982" /></a> </p>
 
-- 🌱 I'm Currently learning **Data Structures.**
+- 🌱 I'm Currently learning **Dynamic Programming.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/knockcat/Projects](https://github.com/knockcat/Projects)
 
