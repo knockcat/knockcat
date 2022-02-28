@@ -9,7 +9,7 @@
 
 - 🌱 I'm Currently learning **Dynamic Programming.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/knockcat/Projects](https://github.com/knockcat/Projects)
+- 👨‍💻 All of my projects are available under [Repository Section](https://github.com/knockcat?tab=repositories)
 
 - 💬Ask me about anything related to **C and C++ programming.**
 
