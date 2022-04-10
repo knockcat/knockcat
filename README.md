@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Joshi 😉 </h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
+<h3 align="center">Being Standout is my hobby... Trying to be unique always is my goal..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knockcat&label=Profile%20views&color=0e75b6&style=flat" alt="knockcat" /> </p>
 
