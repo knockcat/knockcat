@@ -18,7 +18,8 @@
 
 - 💬Ask me about anything related to **C and C++ programming.**
 
-- 📫 How to reach me **gehurecruitvishaljoshi@gmail.com**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/vishal-joshi-7194491b7/)
+- E-mail **vishujoshi21nov2000@gmail.com**
 
 - ⚡ Fun fact **("Call me Knockcat")**
 
