@@ -5,13 +5,13 @@
 ![knlogo](https://user-images.githubusercontent.com/85362504/198105598-a542b7a3-917c-4110-99e6-cf0247bc85dc.png)
 
 [![An image of @knockcat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/knockcat)](https://holopin.io/@knockcat)
-
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knockcat&label=Profile%20views&color=0e75b6&style=flat" alt="knockcat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knockcat" alt="knockcat" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vishalj10483982" target="blank"><img src="https://img.shields.io/twitter/follow/vishalj10483982?logo=twitter&style=for-the-badge" alt="vishalj10483982" /></a> </p>
-
+-->
 - 🌱 I'm actively seeking Full-Time and Internship Opportunites, **If you are someone who is hiring or can refer me please reach out to me.**
 
 - 👨‍💻 Some of my work is showcased here [Portfolio](http://knockcat.github.io/)
