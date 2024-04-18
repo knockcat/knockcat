@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/vishalj10483982" target="blank"><img src="https://img.shields.io/twitter/follow/vishalj10483982?logo=twitter&style=for-the-badge" alt="vishalj10483982" /></a> </p>
 
-- 🌱 I'm Currently learning **Dynamic Programming.**
+- 🌱 I'm actively seeking Full-Time and Internship Opportunites, **If you are someone who is hiring or can refer me please reach out to me.**
 
-- 👨‍💻 All of my projects are available under [Project Section](https://github.com/knockcat?tab=projects&type=classic)
+- 👨‍💻 Some of my work is showcased here [Portfolio](http://knockcat.github.io/)
 
 - 💬Ask me about anything related to **C and C++ programming.**
 
