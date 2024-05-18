@@ -2,7 +2,6 @@
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
 <h3 align="center">Being Standout is my hobby... Trying to be unique always is my goal..</h3>
 
-![knlogo](https://user-images.githubusercontent.com/85362504/198105598-a542b7a3-917c-4110-99e6-cf0247bc85dc.png) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knockcat&label=Profile%20views&color=0e75b6&style=flat" alt="knockcat" /> </p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knockcat" alt="knockcat" /></a> </p>
