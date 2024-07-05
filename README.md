@@ -19,7 +19,14 @@
 
 - ⚡ Fun fact **("Call me Knockcat")**
 
-![knlogo](https://user-images.githubusercontent.com/85362504/198105598-a542b7a3-917c-4110-99e6-cf0247bc85dc.png)
+<p align="center">
+  <img src="https://github.com/knockcat/knockcat/assets/85362504/dd459b4d-ee24-42ef-8d77-aefde42c2891" width="80%" height="80%">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85362504/198105598-a542b7a3-917c-4110-99e6-cf0247bc85dc.png" width="80%" height="80%">
+</p>
+
 
 [![An image of @knockcat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/knockcat)](https://holopin.io/@knockcat)
 
