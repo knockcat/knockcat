@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Joshi 😉 </h1>
-<h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
+<h3 align="center">A 2024 Graduate with a Bachelor of Technology in Computer Science.</h3>
 <h3 align="center">Being Standout is my hobby... Trying to be unique always is my goal..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knockcat&label=Profile%20views&color=0e75b6&style=flat" alt="knockcat" /> </p>
@@ -48,6 +48,8 @@
 <a href="https://www.hackerearth.com/@knockcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@knockcat" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/knockcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="knockcat" height="30" width="40" /></a>
  <a href="https://atcoder.jp/users/knockcat" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="knockcat" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/GbgCCt5Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GbgCCt5Y" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
